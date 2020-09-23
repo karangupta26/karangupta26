@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Karan Gupta
+### Hi there 👋,
 #### I am Software Developer| Machine Learning Enthusiastic| Data Scientist
 I have done my bachelor's in Computer Science and Engineering from S.R.M University. Now, I am pursuing My master's in Information Technology from NSUT will be Exploring More in the field of Data Science and Artificial Intelligence. Other than this I love to do Some Cooking, watch some series related to espionage thrillers, mystery's, Superheros.
 
