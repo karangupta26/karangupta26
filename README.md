@@ -1,27 +1,19 @@
-### Hi there 👋
+### Hi there 👋, My name is Karan Gupta
+#### I am Software Developer| Machine Learning Enthusiastic| Data Scientist
+I have done my bachelor's in Computer Science and Engineering from S.R.M University. Now, I am pursuing My master's in Information Technology from NSUT will be Exploring More in the field of Data Science and Artificial Intelligence. Other than this I love to do Some Cooking, watch some series related to espionage thrillers, mystery's, Superheros.
 
-<!--
-**karangupta26/karangupta26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Data Structures / Algorithms / Python / Java / Pandas / Spring / Hibernate.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on unfinished projects. 
+- 🌱 I’m currently learning new techniques that are introduced in recent years. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karangupta26&hide_title=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=002b36" /><br>
-![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karangupta26&show_icons=true&theme=radical)
 
-<br>
-<img src="https://github-readme-linkedin.vercel.app/user?username=karangupta26" width="730" height="100" />
-<div align="center">
-  <img src="https://github-readme-linkedin.vercel.app/experience?username=karangupta26&limit=6" width="450" height="700" />
-  <img src="https://github-readme-linkedin.vercel.app/skills?username=karangupta26" width="400" height="700" />
-</div>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/karangupta26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karangupta26/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/karangupta26/)  
 
-<br>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karangupta26&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karangupta26)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/karangupta26)  
