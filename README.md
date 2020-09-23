@@ -17,3 +17,14 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karangupta26&hide_title=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=002b36" /><br>
 ![Karan's github stats](https://github-readme-stats.vercel.app/api?username=karangupta26&show_icons=true&theme=radical)
 
+<br>
+<img src="https://github-readme-linkedin.vercel.app/user?username=karangupta26" width="730" height="100" />
+<div align="center">
+  <img src="https://github-readme-linkedin.vercel.app/experience?username=karangupta26&limit=6" width="450" height="700" />
+  <img src="https://github-readme-linkedin.vercel.app/skills?username=karangupta26" width="400" height="700" />
+</div>
+<div align="center">
+<img src="https://github-readme-linkedin.vercel.app/education?username=karangupta26" width="450" height="150" />
+<img src="https://github-readme-linkedin.vercel.app/languages?username=karangupta26" width="400" height="150" />
+</div>
+<br>
