@@ -15,7 +15,7 @@ Skills: Data Structures / Algorithms / Python / Java / Pandas / Spring / Hiberna
 - 🌱 I’m currently learning new techniques that are introduced in recent years. 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karangupta26&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karangupta26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karangupta26&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karangupta26&layout=compact)]
 
 
 
